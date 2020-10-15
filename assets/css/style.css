@@ -880,6 +880,9 @@ section.department-part {
 
 
 /* Footer Part Start */
+.footer-part {
+	margin-top: 50px;
+}
 .footer-link-social-part {
 	background-color: #252c3a;
 	padding-top: 60px;
