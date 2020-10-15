@@ -728,6 +728,9 @@ section.department-part {
 
 
 /* Limitless Learning Area Start */
+.limitless-learning-part {
+	margin-top: 50px;
+}
 .limitlest-video-part {
 	background: url("../images/limitless-video-modal.png");
 	margin: 0px;
@@ -874,6 +877,153 @@ section.department-part {
 	text-decoration: none;
 }
 /* Around The University Area End */
+
+
+/* Footer Part Start */
+.footer-link-social-part {
+	background-color: #252c3a;
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+.footer-social-description p {
+	font-family: "RobotoRegular";
+	font-size: 14px;
+	line-height: 22px;
+	color: #969595;
+	padding-top: 20px;
+}
+.footer-social-description hr {
+	border-top: 1px solid #303744;
+}
+.footer-social-icons a {
+	color: #4a4a4a;
+	padding-right: 10px;
+}
+
+.footer-social-icons a:hover:nth-child(1) {
+	color: #52A8E7;
+	text-decoration: none;
+}
+.footer-social-icons a:hover:nth-child(2) {
+	color: #0e76a8;
+	text-decoration: none;
+}
+.footer-social-icons a.active:nth-child(3) {
+	color: #0089fd;
+}
+.footer-social-icons a:hover:nth-child(4) {
+	color: #00aff0;
+	text-decoration: none;
+}
+.footer-social-icons a:hover:nth-child(5) {
+	color: #c8232c;
+	text-decoration: none;
+}
+.footer-social-icons a:hover:nth-child(6) {
+	color: #66b447;
+	text-decoration: none;
+}
+.edumodo-link-into h6 {
+	font-family: 'RobotoRegular';
+	font-size: 14px;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.edumodo-link-into ul li {
+	padding-bottom: 20px;
+}
+.edumodo-link-into ul li a {
+	font-family: "RobotoRegular";
+	color: #969595;
+	font-size: 14px;
+	line-height: 22px;
+}
+.edumodo-link-into ul li a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.edumodo-link-into p {
+	font-family: "RobotoRegular";
+	font-size: 14px;
+	line-height: 22px;
+	color: #969595;
+}
+.edumodo-link-into .single {
+	max-width: 650px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	z-index: 2; }
+.edumodo-link-into .single h2 {
+	font-size: 22px;
+	color: white;
+	text-transform: uppercase;
+	margin-bottom: 40px; }
+.edumodo-link-into .single .form-control {
+	height: 50px;
+	background: rgba(255, 255, 255, 0.6);
+	border-color: transparent;
+	border-radius: 20px 0 0 20px; }
+.edumodo-link-into .single .form-control:focus {
+	box-shadow: none;
+	border-color: #243c4f; }
+.edumodo-link-into .single .btn {
+	min-height: 50px;
+	border-radius: 0 20px 20px 0;
+	background: #ffc178;
+	color: #fff;
+}
+.edumodo-link-into .btn.btn-theme {
+	font-family: "RobotoRegular";
+	font-size: 12px;
+	color: #FFF;
+	background: #ffc178;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+	padding: 9px;
+}
+::-webkit-input-placeholder { /* Edge */
+	font-family: "OpenSansRegular";
+	font-size: 12px;
+	color: #969595;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+	font-family: "OpenSansRegular";
+	font-size: 12px;
+	color: #969595;
+}
+::placeholder {
+	font-family: "OpenSansRegular";
+	font-size: 12px;
+	color: #969595;
+}
+.footer-copyright-part {
+	background: #1d232e;
+	padding: 20px 0px 5px 0px;
+}
+.footer-copyright-part p {
+	font-family: "RobotoRegular";
+	font-size: 13px;
+	color: #6b6b6b;
+}
+.footer-right-link-area ul li {
+	padding-left: 10px;
+}
+.footer-right-link-area ul li a {
+	font-family: "RobotoRegular";
+	font-size: 13px;
+	color: #6b6b6b;
+}
+.footer-right-link-area ul li a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* Footer Part End */
+
 
 
 
